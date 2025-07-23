@@ -53,7 +53,7 @@ total_sale IS NULL;
 -- 0 rows returned
 
 -- Data Exploration
--- How many sales we have?
+-- How much sales do we have?
 SELECT COUNT(*) AS total_sales FROM retail_sales;
 
 -- How many unique customers do we have?
